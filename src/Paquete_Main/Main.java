@@ -1,7 +1,6 @@
 package Paquete_Main;
 import java.util.Scanner;
 
-
 public class Main {
 
    public static Scanner Scan=new Scanner(System.in);
